@@ -9,6 +9,7 @@ public class Integrante {
     private String name;
     private String apPaterno;
     private String apMaterno;
+    
     private String email;
     private String telefono;
     private String fotoUrl;

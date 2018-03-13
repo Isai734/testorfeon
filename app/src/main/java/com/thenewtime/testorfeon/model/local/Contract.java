@@ -1,4 +1,4 @@
-package com.thenewtime.testorfeon.model;
+package com.thenewtime.testorfeon.model.local;
 
 import android.content.UriMatcher;
 import android.net.Uri;
@@ -99,7 +99,6 @@ public class Contract {
     public static class ColumnsIntegrante implements BaseColumns {
         private ColumnsIntegrante() {
         }
-
         public final static String NOMBRE = "nombre";
         public final static String A_PATERNO = "apPaterno";
         public final static String A_MATERNO = "apMaterno";

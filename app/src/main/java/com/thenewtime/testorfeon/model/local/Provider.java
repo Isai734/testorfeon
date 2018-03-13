@@ -1,4 +1,4 @@
-package com.thenewtime.testorfeon.model;
+package com.thenewtime.testorfeon.model.local;
 
 import android.content.ContentProvider;
 import android.content.ContentUris;
@@ -8,6 +8,7 @@ import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 import android.net.Uri;
 import android.text.TextUtils;
+
 
 /**
  * Content Provider personalizado para las actividades

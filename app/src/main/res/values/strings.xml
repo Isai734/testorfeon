@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">testorfeon</string>
     <string name="action_settings">Settings</string>
+    <string name="prompt_user_id">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in_short">Contraseña</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_up">Registrasre</string>
+    <string name="error_invalid_user_id">Usuario no valido</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="error_server">Error en el servidor</string>
+    <string name="error_incorrect_user_id">Usuario no registrado</string>
+    <string name="error_network">Conexión de red no disponible</string>
+    <string name="error_invalid_password">Contraseña no valida</string>
 </resources>
